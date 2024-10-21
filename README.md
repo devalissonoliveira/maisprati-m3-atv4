@@ -13,7 +13,23 @@
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=js,css,html" />
     </a>
-  </p>
+</p>
+
+## Deploy do projeto 
+[Clique aqui](https://devalissonoliveira.github.io/maisprati-m3-atv4/)
+
+## Observações
+- Foi utilizada a biblioteca Bootstrap para facilitar diversos aspectos do design e garantir a responsividade.
+  
+- A biblioteca externa Swiper foi empregada para implementar o carrossel das recomendações.
+  
+- A biblioteca AOS.js foi utilizada para adicionar animações em partes da landing page.
+  
+- Além disso, foi utilizada a API do EmailJS, que permite enviar e-mails diretamente do lado do cliente (frontend), sem a necessidade de um servidor backend.
+  
+- Também foram utilizadas as bibliotecas do Google, como Google Fonts, para implementar a fonte Montserrat em nosso site, e Google Icons para os ícones dos nossos serviços.
+  
+- Adicionalmente, a biblioteca Ionicons foi utilizada para os ícones do footer.
   
 ## Instruções de entrega
 Estrutura da Página:
