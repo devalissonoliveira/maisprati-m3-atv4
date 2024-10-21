@@ -31,7 +31,7 @@
   
 - Adicionalmente, a biblioteca Ionicons foi utilizada para os ícones do footer.
   
-- Foram utilizadas APIs externas criadas por mim para o desenvolvimento de testes.
+- Foi utilizada a API REST fictícia  externa do JSONPlaceholder, utilizando a tecnologia My JSON Server, onde criei um endpoint com JSON personalizado, integrando o JSONPlaceholder a um repositório do GitHub para popular as seções de recomendações e serviços.
 
   
 ## Instruções de entrega
