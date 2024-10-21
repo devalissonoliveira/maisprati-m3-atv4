@@ -31,6 +31,9 @@
   
 - Adicionalmente, a biblioteca Ionicons foi utilizada para os ícones do footer.
   
+- Foram utilizadas APIs externas criadas por mim para o desenvolvimento de testes.
+
+  
 ## Instruções de entrega
 Estrutura da Página:
 Header:
