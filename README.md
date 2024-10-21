@@ -11,7 +11,7 @@
 ## Tecnologias utilizadas
 <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,css,html" />
+      <img src="https://skillicons.dev/icons?i=bootstrap,js,css,html" />
     </a>
 </p>
 
